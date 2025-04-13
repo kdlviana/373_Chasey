@@ -1,0 +1,2 @@
+../Core/Src/motors.c:20:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/motors.c:55:6:runMotor	32	static
